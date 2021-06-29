@@ -1,9 +1,9 @@
 # 0x1CA3
 
 - 🔭 I mainly code/work with: <br />
-     > Python
-     > C
-     > PHP
+       Python
+       C
+       PHP
      Other langs I don't code in very much/barely know:
      > JS
      > Golang
