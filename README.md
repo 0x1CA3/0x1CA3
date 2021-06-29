@@ -1,6 +1,6 @@
 # 0x1CA3
 
-- 🔭 I mainly code/work with:
+- 🔭 I mainly code/work with: <br />
      > Python
      > C
      > PHP
