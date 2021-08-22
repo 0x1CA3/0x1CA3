@@ -8,5 +8,5 @@
 - 💻 Other langs I don't code in very much/barely know:
   *   Javascript
   *   SQL
-- 📫 How to reach me: 788919898343473163 <- [Discord ID]
+- 📫 How to reach me: 835622562742272011 <- [Discord ID]
 - ⚡ Fun fact: You're probably here because I'm arguing with you.
