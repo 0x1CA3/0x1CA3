@@ -6,8 +6,8 @@
   *   Golang
   *   PHP
 - 💻 Other langs I don't code in very much/barely know:
-  *   SQL
   *   C++
+  *   SQL
   *   Javascript
 - 📚 Currently Learning:
   *   x86 Assembly
