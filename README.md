@@ -7,6 +7,7 @@
   *   PHP
 - 💻 Other langs I don't code in very much/barely know:
   *   SQL
+  *   C++
   *   Javascript
 - 📚 Currently Learning:
   *   x86 Assembly
