@@ -16,7 +16,7 @@
   *   Malware
   *   Programming
   *   Webapp Hacking
-  *   Exploit Development
   *   Reverse Engineering
+  *   Exploit Development
 - 📫 How to reach me: 835622562742272011 <- [Discord ID]
 - ⚡ Fun fact: You're probably here because I'm arguing with you.
