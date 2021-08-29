@@ -1,6 +1,5 @@
-<h1 align="center">
-  0x1CA3
-</h1>
+# 0x1CA3
+
 - 🔭 I mainly code/work with: 
   *   Python
   *   C 
