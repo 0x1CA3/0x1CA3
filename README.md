@@ -5,7 +5,7 @@
   *   C 
   *   Golang
   *   PHP
-- 💻 Languages I don't code in very much:
+- 💻 Languages that I don't code in very much:
   *   C++
   *   SQL
   *   Javascript
