@@ -10,6 +10,8 @@
   *   SQL
   *   Javascript
 - 📚 Currently Learning:
+  *   SQL
+  *   Vlang
   *   x86 Assembly
   *   Reverse Engineering
 - 📱 Interests:
