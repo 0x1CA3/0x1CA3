@@ -1,18 +1,18 @@
 # 0x1CA3
 
-- 🔭 I mainly code/work with: 
+- 🔭 I mainly know/code/work with: 
   *   Python
   *   C 
   *   Golang
+  *   Volang
   *   PHP
 - 💻 Languages that I don't code in very much:
   *   C++
   *   SQL
-  *   Vlang
   *   Javascript
 - 📚 Currently Learning:
   *   SQL
-  *   Vlang
+  *   Vlang (Trying to get better at it)
   *   x86 Assembly
   *   Reverse Engineering
 - 📱 Interests:
