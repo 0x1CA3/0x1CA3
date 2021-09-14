@@ -4,7 +4,7 @@
   *   Python
   *   C 
   *   Golang
-  *   Volang
+  *   Vlang
   *   PHP
 - 💻 Languages that I don't code in very much:
   *   C++
@@ -12,7 +12,7 @@
   *   Javascript
 - 📚 Currently Learning:
   *   SQL
-  *   Vlang (Trying to get better at it)
+  *   Vlang [Trying to get better at it]
   *   x86 Assembly
   *   Reverse Engineering
 - 📱 Interests:
