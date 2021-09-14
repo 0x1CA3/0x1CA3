@@ -8,6 +8,7 @@
 - 💻 Languages that I don't code in very much:
   *   C++
   *   SQL
+  *   Vlang
   *   Javascript
 - 📚 Currently Learning:
   *   SQL
