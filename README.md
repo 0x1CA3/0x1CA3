@@ -2,9 +2,9 @@
 
 - 🔭 I mainly know/code/work with: 
   *   Python
-  *   C 
-  *   Golang
+  *   C
   *   Vlang
+  *   Golang
   *   PHP
 - 💻 Languages that I don't code in very much:
   *   C++
