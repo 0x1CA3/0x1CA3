@@ -16,9 +16,9 @@
   *   Reverse Engineering
 - 📱 Interests:
   *   IoT
-  *   Malware
   *   Programming
   *   Webapp Hacking
+  *   Malware Analysis
   *   Reverse Engineering
   *   Exploit Development
   *   Malware Development
