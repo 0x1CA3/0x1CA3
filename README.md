@@ -39,5 +39,6 @@ Here are some projects to check out.
 - [Duo](https://github.com/0x1CA3/Duo) - A post-exploitation framework that supports Windows & Linux
 - [Net](https://github.com/0x1CA3/Net) - A re-written version of my ADB-based botnet
 - [Kit](https://github.com/0x1CA3/kit) - A network utility with multiple features
+- [Thunder](https://github.com/0x1CA3/Thunder) - A custom shell written in C.
 
 ~ 0x1CA3
