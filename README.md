@@ -16,7 +16,7 @@ I **code** in multiple languages and I sometimes do **security** related things.
 </a>	
 <br><br>
 <a href="https://github.com/0x1CA3?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1CA3&layout=compact&hide=Batchfile,html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1CA3&langs_count=10&layout=compact&hide=Batchfile,html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 <br>
 <br>
