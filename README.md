@@ -12,8 +12,8 @@
   *   Javascript
 - 📚 Currently Learning:
   *   SQL
-  *   x86/x86_64 Assembly
   *   Reverse Engineering
+  *   x86/x86_64 Assembly
 - 📱 Interests:
   *   IoT
   *   Programming
