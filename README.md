@@ -12,7 +12,7 @@
   *   Javascript
 - 📚 Currently Learning:
   *   SQL
-  *   x86 Assembly
+  *   x86/x86_64 Assembly
   *   Reverse Engineering
 - 📱 Interests:
   *   IoT
