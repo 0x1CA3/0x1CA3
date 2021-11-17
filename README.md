@@ -26,9 +26,9 @@
 - ⚡ Fun fact: You're probably here because I'm arguing with you.
 
 Here are some projects to check out.
-- [Duo](https://github.com/0x1CA3/Duo) - A post-exploitation framework that supports Windows & Linux
-- [Net](https://github.com/0x1CA3/Net) - A re-written version of my ADB-based botnet
+- [Net](https://github.com/0x1CA3/Net) - A light-weight, minimal botnet written in C
 - [Kit](https://github.com/0x1CA3/kit) - A network utility with multiple features
+- [loader](https://github.com/0x1CA3/loader) - A loader for infecting devices
 - [Thunder](https://github.com/0x1CA3/Thunder) - A custom shell written in C
 
 ~ 0x1CA3
