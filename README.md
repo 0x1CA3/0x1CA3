@@ -3,13 +3,14 @@
 - 🔭 I mainly know/code/work with: 
   *   Python
   *   C
+  *   C++
   *   Vlang
   *   Golang
   *   PHP
 - 💻 Languages that I don't code in very much:
-  *   C++
   *   SQL
   *   Javascript
+  *   x86/x86_64 Assembly
 - 📚 Currently Learning:
   *   SQL
   *   Reverse Engineering
