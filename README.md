@@ -24,7 +24,7 @@
   *   Reverse Engineering
   *   Exploit Development
   *   Malware Development
-- 📫 How to reach me: 835622562742272011 <- [Discord ID]
+- 📫 How to reach me: 835622562742272011 <- [Go on https://discord.id/ to get profile information]
 - ⚡ Fun fact: You're probably here because I'm arguing with you.
 
 Here are some projects to check out.
